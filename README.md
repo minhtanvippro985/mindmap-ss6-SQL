@@ -1,0 +1,1 @@
+# mindmap-ss6-SQL
